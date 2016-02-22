@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-		<meta name="description" content="Board Company and Wealth Management"/>
-		<meta name="keywords" content="Finance, Heritage Management, Treasury, Investment, Board, stock, stock market investments, ASF Investments, CAC40, NASDAQ, FTSE, NIKKEI 225 ASX 200, DAX"/>
-		<meta name="author" content="ASF Investments SA"/>
-		<link rel="stylesheet" type="text/css" href="res/css/bootstrap.css"/>
-		<link rel="stylesheet" type="text/css" href="res/css/flag-icon.min.css"/>
-		<link rel="stylesheet" type="text/css" href="res/css/style.css" media="all"/>
-		<link rel="stylesheet" href="res/js/vector-map/custom_jquery-jvectormap.css" />
-		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700|Roboto+Slab:300,400"/>
-		<link rel="shortcut icon" href="favicon.ico"/>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<meta name="description" content="Board Company and Wealth Management" />
+		<meta name="keywords" content="Finance, Heritage Management, Treasury, Investment, Board, stock, stock market investments, ASF Investments, CAC40, NASDAQ, FTSE, NIKKEI 225 ASX 200, DAX" />
+		<meta name="author" content="ASF Investments SA" />
+		<link rel="stylesheet" type="text/css" href="res/css/bootstrap.css" />
+		<link rel="stylesheet" type="text/css" href="res/css/flag-icon.min.css" />
+		<link rel="stylesheet" type="text/css" href="res/css/style.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="res/js/vector-map/custom_jquery-jvectormap.css" />
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700|Roboto+Slab:300,400" />
+		<link rel="icon" href="favicon.ico" />
 		<meta name="google-site-verification" content="l9V-HjeRxz9tTBxRor35IiDomzUdA6N0m8aWuBAzmP0" />
 		<meta name="google-site-verification" content="T-dnF5DRdzCOeqqMIvRO4MNHrxvcty47THAj8lgzThI" />
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -30,7 +30,7 @@
 					<div class="container">
 						<div class="four columns">
 							<div class="logo">
-								<a href="/"><img src="res/images/logo.png" id="img-logo" alt="ASF"></a>
+								<a href="/"><img src="res/images/logo.png" id="img-logo" alt="ASF"/></a>
 							</div>
 						</div>
 						<nav id="nav-wrap" class="nav-wrap1 twelve columns">
@@ -43,18 +43,19 @@
 										<li><a class="page-scroll" href="#multigestion">Asset management</a></li>
 										<li><a class="page-scroll" href="#fiduciaire">Fiduciary &amp; trustee services</a></li>
 										<li><a class="page-scroll" href="#banking">Banking services</a></li>
-									</ul></li>
+									</ul>
+								</li>
 								<li><a class="page-scroll" href="#engagements">Our Commitments</a></li>
 								<li><a class="page-scroll" href="#contact">Contact</a>
 									<ul>
 										<li><a class="page-scroll" href="#info">Information</a></li>
 										<li><a class="page-scroll" href="#implantation">Locations</a></li>
 										<li><a class="page-scroll" href="#geo">Our geographic position</a></li>
-									</ul></li>
-								<li><a><span class="fa fa-language"></span></a>
+									</ul>
+								</li>
+								<li><a><span class="flag-icon flag-icon-gb"></span> &nbsp; English</a>
 									<ul>
-										<li><a href="index.en.html"><span class="flag-icon flag-icon-gb"></span> English</a></li>
-										<li><a href="index.fr.html"><span class="flag-icon flag-icon-fr"></span> Français</a></li>
+										<li><a href="index.fr.html"><span class="flag-icon flag-icon-fr"></span> &nbsp; Français</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -66,150 +67,192 @@
 				<div id="layerslider-container-fw">
 					<div id="layerslider" style="width: 100%; height: 700px; margin: 0px auto;">
 						<div class="ls-layer" style="slidedirection: top; slidedelay: 5000; durationin: 1500; durationout: 1500; delayout: 500;">
-							<img src="res/images/slide-pics/slide1-bg.jpg" class="ls-bg" alt="">
-							<h2 class="ls-s3"
-								style="position: absolute; top: 120px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); left: 50%; slidedirection: right; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 400;">
-								ASF INVESTMENTS SA</h2>
-							<h3 class="ls-s3 l1-s1"
-								style="position: absolute; top: 240px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); left: 50%; slidedirection: bottom; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 500;">
-								Swiss Wealth Management company, serving an international clientele</h3>
-							<a class="button red ls-s8 page-scroll" href="#about"
-								style="position: absolute; top: 500px; left: 50%; slidedirection: bottom; slideoutdirection: bottom; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInOutQuint; delayin: 600;">
-								About us</a>
+							<img src="res/images/slide-pics/slide1-bg.jpg" class="ls-bg" alt=""/>
+							<h2 class="ls-s3" style="position: absolute; top: 120px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); left: 50%; slidedirection: right; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 400;">
+								ASF INVESTMENTS SA
+							</h2>
+							<h3 class="ls-s3 l1-s1" style="position: absolute; top: 240px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); left: 50%; slidedirection: bottom; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 500;">
+								Swiss Wealth Management company, serving an international clientele
+							</h3>
+							<a class="button red ls-s8 page-scroll" href="#about" style="position: absolute; top: 500px; left: 50%; slidedirection: bottom; slideoutdirection: bottom; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInOutQuint; delayin: 600;">
+								About us
+							</a>
 						</div>
 						<div class="ls-layer" style="slidedirection: right; slidedelay: 5000; durationin: 1500; durationout: 1500;">
-							<img src="res/images/slide-pics/slide2-bg.jpg" class="ls-bg" alt="">
-							<h2 class="ls-s3"
-								style="position: absolute; top: 100px; left: 160px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: right; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 400;">
-								Our core business : </h2>
-							<h2 class="ls-s3 l1-s1"
-								style="position: absolute; top: 200px; left: 160px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: bottom; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 500;">
-								consulting</h2>
-							<h2 class="ls-s3 l1-s1"
-								style="position: absolute; top: 300px; left: 160px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: bottom; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 500;">
-								 and asset structuring</h2>
-							<a class="button red ls-s8 page-scroll" href="#services"
-								style="position: absolute; top: 500px; left: 160px; slidedirection: bottom; slideoutdirection: bottom; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInOutQuint; delayin: 600;">Nos
-								Our services</a>
+							<img src="res/images/slide-pics/slide2-bg.jpg" class="ls-bg" alt=""/>
+							<h2 class="ls-s3" style="position: absolute; top: 100px; left: 160px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: right; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 400;">
+								Our core business :
+							</h2>
+							<h2 class="ls-s3 l1-s1" style="position: absolute; top: 200px; left: 160px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: bottom; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 500;">
+								consulting
+							</h2>
+							<h2 class="ls-s3 l1-s1" style="position: absolute; top: 300px; left: 160px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: bottom; slideoutdirection: left; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 500;">
+								and asset structuring
+							</h2>
+							<a class="button red ls-s8 page-scroll" href="#services" style="position: absolute; top: 500px; left: 160px; slidedirection: bottom; slideoutdirection: bottom; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInOutQuint; delayin: 600;">
+								Our services
+							</a>
 						</div>
 						<div class="ls-layer" style="slidedirection: right; slideoutdirection: top; slidedelay: 5000; durationin: 1500; durationout: 1500; delayout: 500;">
-							<img src="res/images/slide-pics/slide3-bg.jpg" class="ls-bg" alt="">
-							<h2 class="ls-s3"
-								style="position: absolute; top: 140px; left: 120px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: top; slideoutdirection: top; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 600;">
-								Protecting </h2>
-							<h2 class="ls-s3 l1-s1"
-								style="position: absolute; top: 240px; left: 120px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: bottom; slideoutdirection: bottom; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 700;">
-								and passing on your estate</h2>
-							<a class="button red ls-s8 page-scroll" href="#fiduciaire"
-								style="position: absolute; top: 400px; left: 120px; slidedirection: bottom; slideoutdirection: bottom; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInOutQuint; delayin: 800;">Nos
-								Our Fiduciary and Trustee Services </a>
+							<img src="res/images/slide-pics/slide3-bg.jpg" class="ls-bg" alt=""/>
+							<h2 class="ls-s3" style="position: absolute; top: 140px; left: 120px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: top; slideoutdirection: top; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 600;">
+								Protecting
+							</h2>
+							<h2 class="ls-s3 l1-s1" style="position: absolute; top: 240px; left: 120px; color: #fff; font-weight: bold; background-color: rgba(155, 43, 32, 0); slidedirection: bottom; slideoutdirection: bottom; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInBack; delayin: 700;">
+								and passing on your estate
+							</h2>
+							<a class="button red ls-s8 page-scroll" href="#fiduciaire" style="position: absolute; top: 400px; left: 120px; slidedirection: bottom; slideoutdirection: bottom; durationin: 3000; durationout: 750; easingin: easeInOutQuint; easingout: easeInOutQuint; delayin: 800;">
+								Our Fiduciary and Trustee Services
+							</a>
 						</div>
 					</div>
 				</div>
-				<hr class="vertical-space4">
+				<hr class="vertical-space4"/>
 			</section>
 			<section id="whoweare">
-				<hr class="vertical-space2">
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
+				<hr class="vertical-space2"/>
 				<div class="container">
-					<h3 class="subtitle">About us ?</h3>
+					<h3 class="subtitle">About us</h3>
 				</div>
 			</section>
 			<section class="container" id="about">
-				<hr class="vertical-space2">
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
+				<hr class="vertical-space2"/>
 				<div class="sixteen columns">
 					<div class="sixteen columns">
-						<p class="text-justify">ASF INVESTMENTS SA is a Swiss wealth management company that specialises in international clienteles.</p>
-						<p class="text-justify">Our worldwide presence and our international expertise enable us to help you establish long-term tax and investment strategies.</p>
-						<p class="text-justify">Our mission is to advise clients and manage their assets in a completely independent manner.</p>
-						<p class="text-justify">Whether you are an entrepreneur, an executive or you represent a legal entity, our mission is to assist you within a privileged relationship, one that is based on trust and the long-term, in order to meet all of your estate needs.</p>
+						<p class="text-justify">
+							ASF INVESTMENTS SA is a Swiss wealth management company that specialises in international clienteles.
+						</p>
+						<p class="text-justify">
+							Our worldwide presence and our international expertise enable us to help you establish long-term tax and investment strategies.
+						</p>
+						<p class="text-justify">
+							Our mission is to advise clients and manage their assets in a completely independent manner.
+						</p>
+						<p class="text-justify">
+							Whether you are an entrepreneur, an executive or you represent a legal entity, our mission is to assist you within a privileged relationship, one that is based on trust and the long-term, in order to meet all of your estate needs.
+						</p>
 					</div>
 				</div>
 			</section>
 			<section id="services">
-				<hr class="vertical-space2">
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
+				<hr class="vertical-space2"/>
 				<div class="container">
 					<h3 class="subtitle">Our Services</h3>
 				</div>
 			</section>
 			<section class="container">
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
 				<div class="sixteen columns">
 					<div class="flexslider">
 						<ul class="slides">
 							<li>
-								<img src="res/images/services.jpg" alt="">
+								<img src="res/images/services.jpg" alt=""/>
 								<article class="slide-caption">
 									<h3>A complete and structured investment process.</h3>
-									<h3>Featuring a completely open architecture as well as a multitude of products and suppliers, and multi-management, etc. This guarantees the objectivity you need in wealth management consultancy.</h3>
+									<h3>
+										Featuring a completely open architecture as well as a multitude of products and suppliers, and multi-management, etc. This guarantees the objectivity you need in wealth management consultancy.
+									</h3>
 								</article>
 							</li>
 						</ul>
 					</div>
 				</div>
 				<div class="sixteen columns" id="conseil">
-					<hr class="vertical-space2">
-					<hr class="vertical-space2">
+					<hr class="vertical-space2"/>
+					<hr class="vertical-space2"/>
 					<div class="sub-content">
 						<h6 class="h-sub-content">Consulting and Structuring</h6>
 					</div>
 				</div>
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
 				<div class="sixteen columns">
-					<p class="text-justify">Our main mission here at ASF INVESTMENTS SA is to assess and advise you in terms of the legal and fiscal structure of your private and business assets.</p>
-					<p class="text-justify">In fact, whether you are a private investor or an entrepreneur, an examination of your estate in order to assess your situation and propose strategies that meet your goals is an essential prerequisite.</p>
-					<p class="text-justify">As today's legal and tax environment is constantly changing, we ensure that the legal, tax and estate strategies we establish are appropriate.</p>
-					<p class="text-justify">Our lawyers and our tax experts will subsequently accompany you in the implementation of our recommendations and your decisions.</p>
+					<p class="text-justify">
+						Our main mission here at ASF INVESTMENTS SA is to assess and advise you in terms of the legal and fiscal structure of your private and business assets.
+					</p>
+					<p class="text-justify">
+						In fact, whether you are a private investor or an entrepreneur, an examination of your estate in order to assess your situation and propose strategies that meet your goals is an essential prerequisite.
+					</p>
+					<p class="text-justify">
+						As today's legal and tax environment is constantly changing, we ensure that the legal, tax and estate strategies we establish are appropriate.
+					</p>
+					<p class="text-justify">
+						Our lawyers and our tax experts will subsequently accompany you in the implementation of our recommendations and your decisions.
+					</p>
 				</div>
 				<div class="sixteen columns" id="multigestion">
-					<hr class="vertical-space2">
-					<hr class="vertical-space2">
+					<hr class="vertical-space2"/>
+					<hr class="vertical-space2"/>
 					<div class="sub-content">
 						<h6 class="h-sub-content">Asset management via multi-management: A customised service</h6>
 					</div>
 				</div>
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
 				<div class="sixteen columns">
-					<p class="text-justify">Our investment philosophy is based on a secure and totally independent approach. Although our goal is to ensure performance, the priority is the preservation of your capital.</p>
-					<p class="text-justify">ASF INVESTMENTS SA's expertise entails an objective quantitative analysis combined with a qualitative analysis in order to select and combine the funds and managers that are most appropriate for the market environment.</p>
-					<p class="text-justify">Many competitors claim to have the same principle, paradoxically developing their own range of products which are specifically aimed at their own clients. This is obviously not the case with us.</p>
-					<p class="text-justify">We offer two types of services:</p>
+					<p class="text-justify">
+						Our investment philosophy is based on a secure and totally independent approach. Although our goal is to ensure performance, the priority is the preservation of your capital.
+					</p>
+					<p class="text-justify">
+						ASF INVESTMENTS SA's expertise entails an objective quantitative analysis combined with a qualitative analysis in order to select and combine the funds and managers that are most appropriate for the market environment.
+					</p>
+					<p class="text-justify">
+						Many competitors claim to have the same principle, paradoxically developing their own range of products which are specifically aimed at their own clients. This is obviously not the case with us.
+					</p>
+					<p class="text-justify">
+						We offer two types of services:
+					</p>
 					<ul>
 						<li class="minus">Management mandate</li>
 					</ul>
-					<p class="text-justify">Clients who wish to delegate the management of their portfolio may entrust us with a management mandate. Together, we will then define an orientation that meets their objectives as well as the risk level that is best for them. We constantly adapt our management choices and our asset allocations according to the economic situation and financial market developments.</p>
+					<p class="text-justify">
+						Clients who wish to delegate the management of their portfolio may entrust us with a management mandate. Together, we will then define an orientation that meets their objectives as well as the risk level that is best for them. We constantly adapt our management choices and our asset allocations according to the economic situation and financial market developments.
+					</p>
 					<ul>
 						<li class="minus">Investment consulting</li>
 					</ul>
-					<p class="text-justify">Clients who wish to actively manage their own investments can be accompanied in their choices through regular input in the form of personalised recommendations that are tailored to their convictions.</p>
+					<p class="text-justify">
+						Clients who wish to actively manage their own investments can be accompanied in their choices through regular input in the form of personalised recommendations that are tailored to their convictions.
+					</p>
 				</div>
 				<div class="sixteen columns" id="fiduciaire">
-					<hr class="vertical-space2">
-					<hr class="vertical-space2">
+					<hr class="vertical-space2"/>
+					<hr class="vertical-space2"/>
 					<div class="sub-content">
 						<h6 class="h-sub-content">Fiduciary &amp; trustee services</h6>
 					</div>
 				</div>
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
 				<div class="sixteen columns">
-					<p class="text-justify">The establishment of a trust or foundation can allow you to secure your estate and plan its transfer to future generations while optimising your tax situation.</p>
-					<p class="text-justify">In addition, a trust or foundation can, for example, allow you to decide in advance who will look after your assets in the event that you are unable to do so in the future. This will ensure that your loved ones will not have to worry about your daily business affairs instead of your well-being.</p>
-					<p class="text-justify">We can also assist you in the preparation of your will.</p>
-					<p class="text-justify">Our role will be to oversee the protection of your assets, ensure the proper handling of your accounts and provide your beneficiaries with detailed reports.</p>
-					<p class="text-justify">It is therefore important that you appoint a trustee with experience, one that is known for its impartiality and its ability to administer assets, particularly in order to enhance your wealth according to your goals.</p>
+					<p class="text-justify">
+						The establishment of a trust or foundation can allow you to secure your estate and plan its transfer to future generations while optimising your tax situation.
+					</p>
+					<p class="text-justify">
+						In addition, a trust or foundation can, for example, allow you to decide in advance who will look after your assets in the event that you are unable to do so in the future. This will ensure that your loved ones will not have to worry about your daily business affairs instead of your well-being.
+					</p>
+					<p class="text-justify">
+						We can also assist you in the preparation of your will.
+					</p>
+					<p class="text-justify">
+						Our role will be to oversee the protection of your assets, ensure the proper handling of your accounts and provide your beneficiaries with detailed reports.
+					</p>
+					<p class="text-justify">
+						It is therefore important that you appoint a trustee with experience, one that is known for its impartiality and its ability to administer assets, particularly in order to enhance your wealth according to your goals.
+					</p>
 				</div>
 				<div class="sixteen columns" id="banking">
-					<hr class="vertical-space2">
-					<hr class="vertical-space2">
+					<hr class="vertical-space2"/>
+					<hr class="vertical-space2"/>
 					<div class="sub-content">
 						<h6 class="h-sub-content">Banking services</h6>
 					</div>
 				</div>
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
 				<div class="sixteen columns">
-					<p>Thanks to our many banking partnerships, ASF INVESTMENTS SA offers a wide range of banking and cash management services including:</p>
+					<p>
+						Thanks to our many banking partnerships, ASF INVESTMENTS SA offers a wide range of banking and cash management services including:
+					</p>
 					<ul>
 						<li class="minus">Current accounts in various currencies</li>
 						<li class="minus">Payments</li>
@@ -220,47 +263,67 @@
 						<li class="minus">Fiduciary investments</li>
 					</ul>
 				</div>
-				<hr class="vertical-space4">
+				<hr class="vertical-space4"/>
 			</section>
 			<section id="engagements">
-				<hr class="vertical-space2">
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
+				<hr class="vertical-space2"/>
 				<div class="container">
 					<h3 class="subtitle">Our commitments</h3>
 				</div>
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
 			</section>
 			<section class="full-width" style="background-color: #F0EEED;">
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
 				<div class="container">
 					<div class="sixteen columns">
 						<ol>
-							<li>Making sure that the client's interests are at the core of the consulting approach and the delivery of brokerage solutions.</li>
-							<li>Ensuring that our consulting and brokerage services are in line with strict regulatory and ethical guidelines.</li>
-							<li>Strictly observing professional confidentiality.</li>
-							<li>Following rules of ethics and behaviour in relation to clients and partners.</li>
-							<li>After an assessment has been performed, defining the client's investment profile, situation and asset management objectives and clearly outlining how these objectives will be reached.</li>
-							<li>Advising the client and seeking out the best solutions from a range of investments chosen for their quality among all market participants.</li>
-							<li>Calling on specialists and experts in each relevant field, in order to provide clients with the most appropriate solutions for their situation.</li>
-							<li>Demonstrating both clarity and full transparency in terms of the information provided to clients.</li>
-							<li>Establishing wealth management solutions with rigour and in the exclusive interest of clients.</li>
-							<li>Providing regular updates on the evolution of clients' assets in order to favour proper balance. Ensuring follow-up and actively providing advice in order to respond to investors' changing personal and professional situations.</li>
+							<li>
+								Making sure that the client's interests are at the core of the consulting approach and the delivery of brokerage solutions.
+							</li>
+							<li>
+								Ensuring that our consulting and brokerage services are in line with strict regulatory and ethical guidelines.
+							</li>
+							<li>
+								Strictly observing professional confidentiality.
+							</li>
+							<li>
+								Following rules of ethics and behaviour in relation to clients and partners.
+							</li>
+							<li>
+								After an assessment has been performed, defining the client's investment profile, situation and asset management objectives and clearly outlining how these objectives will be reached.
+							</li>
+							<li>
+								Advising the client and seeking out the best solutions from a range of investments chosen for their quality among all market participants.
+							</li>
+							<li>
+								Calling on specialists and experts in each relevant field, in order to provide clients with the most appropriate solutions for their situation.
+							</li>
+							<li>
+								Demonstrating both clarity and full transparency in terms of the information provided to clients.
+							</li>
+							<li>
+								Establishing wealth management solutions with rigour and in the exclusive interest of clients.
+							</li>
+							<li>
+								Providing regular updates on the evolution of clients' assets in order to favour proper balance. Ensuring follow-up and actively providing advice in order to respond to investors' changing personal and professional situations.
+							</li>
 						</ol>
 					</div>
 				</div>
-				<hr class="vertical-space4">
+				<hr class="vertical-space4"/>
 			</section>
 			<section id="contact">
-				<hr class="vertical-space2">
-				<hr class="vertical-space2">
+				<hr class="vertical-space2"/>
+				<hr class="vertical-space2"/>
 				<div class="container">
 					<h3 class="subtitle">Contact us</h3>
 				</div>
 			</section>
 			<section class="container page-content" id="info">
 				<div class="seven columns contact-inf">
-					<hr class="vertical-space2">
-					<hr class="vertical-space2">
+					<hr class="vertical-space2"/>
+					<hr class="vertical-space2"/>
 					<div class="sub-content">
 						<h6 class="h-sub-content">Contact information:</h6>
 					</div>
@@ -268,25 +331,29 @@
 					<p>
 						<strong>Address:</strong>
 					</p>
-					<p>6 Place de l’Université 1205 Geneva - Switzerland</p>
+					<p>
+						6 Place de l’Université 1205 Geneva - Switzerland
+					</p>
+					<br />
 					<br />
 					<p>
 						<strong>Telephone:</strong>
 					</p>
 					<p>
-						+ 41 22 592 5050<br />
+						+ 41 22 592 5050
 					</p>
+					<br />
 					<br />
 					<p>
 						<strong>Email:</strong>
 					</p>
 					<p>
-						<a href="mailto:contact@asfinvestments.ch">contact@asfinvestments.ch</a><br />
+						<a href="mailto:contact@asfinvestments.ch">contact@asfinvestments.ch</a>
 					</p>
 					<br />
 				</div>
 				<div class="eight columns offset-by-one">
-					<hr class="vertical-space4">
+					<hr class="vertical-space4"/>
 					<div class="contact-form">
 						<div class="clr"></div>
 						<form action="#" method="post" class="frmContact">
@@ -305,12 +372,12 @@
 						</form>
 					</div>
 				</div>
-				<hr class="vertical-space4">
+				<hr class="vertical-space4"/>
 			</section>
 			<section>
 				<div class="container" id="implantation">
-					<hr class="vertical-space2">
-					<hr class="vertical-space2">
+					<hr class="vertical-space2"/>
+					<hr class="vertical-space2"/>
 					<div class="sub-content">
 						<h6 class="h-sub-content">Locations</h6>
 					</div>
@@ -320,12 +387,12 @@
 				<div id="vector-map">
 					<div id="map-markers" style="width: 100%; height: 600px"></div>
 				</div>
-				<hr class="vertical-space4">
+				<hr class="vertical-space4"/>
 			</section>
 			<section>
 				<div class="container" id="geo">
-					<hr class="vertical-space2">
-					<hr class="vertical-space2">
+					<hr class="vertical-space2"/>
+					<hr class="vertical-space2"/>
 					<div class="sub-content">
 						<h6 class="h-sub-content">Our geographic position</h6>
 					</div>
@@ -333,8 +400,7 @@
 			</section>
 			<section class="full-width">
 				<div id="contact-map">
-					<iframe height="600"
-						src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1380.8037869844911!2d6.1439373999999995!3d46.1983673!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c652b38f5f9fb%3A0xc474cd08c46d645c!2sPlace+de+l&#39;Universit%C3%A9+6%2C+1205+Gen%C3%A8ve!5e0!3m2!1sfr!2sch!4v1427886917450"></iframe>
+					<iframe height="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1380.8037869844911!2d6.1439373999999995!3d46.1983673!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c652b38f5f9fb%3A0xc474cd08c46d645c!2sPlace+de+l&#39;Universit%C3%A9+6%2C+1205+Gen%C3%A8ve!5e0!3m2!1sfr!2sch!4v1427886917450"></iframe>
 				</div>
 			</section>
 			<footer id="footer">
@@ -344,13 +410,14 @@
 				<section class="footbot">
 					<div class="container">
 						<div class="footer-navi">
-							&copy; 2015 <a href="./">ASF Investments SA</a> - All Rights Reserved.
+							&copy; 2015 <a href="/">ASF Investments SA</a> - All Rights Reserved.
 						</div>
 						<div class="socailfollow">
-							<a href="https://fr.linkedin.com/" class="linkedin" target="_blank"><i class="fa-linkedin"></i></a> <a href="https://plus.google.com/" class="google"
-								target="_blank"><i class="fa-google-plus"></i></a> <a href="https://www.facebook.com/" class="facebook" target="_blank"><i class="fa-facebook"></i></a> <a
-								href="https://fr.pinterest.com/" class="pinterest" target="_blank"><i class="fa-pinterest"></i></a> <a href="https://twitter.com" class="twitter"
-								target="_blank"><i class="fa-twitter"></i></a>
+							<a href="https://fr.linkedin.com/" class="linkedin" target="_blank"><i class="fa-linkedin"></i></a>
+							<a href="https://plus.google.com/" class="google" target="_blank"><i class="fa-google-plus"></i></a>
+							<a href="https://www.facebook.com/" class="facebook" target="_blank"><i class="fa-facebook"></i></a>
+							<a href="https://fr.pinterest.com/" class="pinterest" target="_blank"><i class="fa-pinterest"></i></a>
+							<a href="https://twitter.com" class="twitter" target="_blank"><i class="fa-twitter"></i></a>
 						</div>
 					</div>
 				</section>
